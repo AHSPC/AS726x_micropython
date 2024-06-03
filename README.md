@@ -1,3 +1,5 @@
+NOTE: This is **archived** because the Electronics Workshop class we ported it for no longer uses this sensor. It may still work, but we use the [AS7341](https://github.com/AHSPC/AS7341_micropython) instead.
+
 # AS726x 
 
 Pure MicroPython driver for the AS726x RGB color sensor. Ported from Adafruit's CircuitPython driver.
